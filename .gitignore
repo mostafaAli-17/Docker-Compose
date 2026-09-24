@@ -1,0 +1,7 @@
+wp-admin/
+wp-includes/
+wp-content/
+*.php
+*.html
+*.txt
+.env
